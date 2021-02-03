@@ -1,3 +1,14 @@
+# This is an archival copy of mixed-reality-extension-sdk.
+### For the latest version, please visit the repo directly at [microsoft/mixed-reality-extension-sdk](https://github.com/microsoft/mixed-reality-extension-sdk).
+****
+
+&nbsp;
+
+This space left intentionally blank.
+
+&nbsp;
+
+****
 # Mixed Reality Extension SDK
 
 <img width='200' height='200' src='branding/MRe-RGB.png'/>
